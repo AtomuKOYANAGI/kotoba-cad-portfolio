@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "units": "mm",
+  "template": "four_hole_plate_at_origin",
+  "parameters": {
+    "width": 120.0,
+    "height": 80.0,
+    "diameter": 6.0,
+    "inset": 10.0
+  }
+}
